@@ -6,3 +6,5 @@ The objective is to make predictions about census data for Wisconsin using regre
 `tracts.shp` - boundaries of each census tract (counties are subdivided into tracts) <br>
 `counties_tracts.db` - details about housing units per tract <br>
 `land.zip` - details about land use (farm, forest, developed, etc.) <br>
+
+At the end we compare the different models that were developed for this project.s
